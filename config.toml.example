@@ -1,0 +1,10 @@
+[plugin]
+[plugin.nospam]
+groups = [
+  "-1",
+  "-2",
+]
+keywords = [
+  "加群",
+]
+notice = "禁止发送此消息"
